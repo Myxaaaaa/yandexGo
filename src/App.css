@@ -1,0 +1,33 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.dashboard-container {
+  padding: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.table-container {
+  margin-top: 20px;
+}
+
+.chart-container {
+  margin-top: 20px;
+  height: 400px;
+} 
